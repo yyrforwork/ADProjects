@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=J1 Old Footprint=microusb3 New Footprint=microusb4
+Change Component Footprint: Designator=J2 Old Footprint=USB-A2 New Footprint=USB-A3
+Change Component Footprint: Designator=J3 Old Footprint=USB-A2 New Footprint=USB-A3
