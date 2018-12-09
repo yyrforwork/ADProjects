@@ -1,0 +1,10 @@
+Added Component: Designator=J1(PIN-3-2.54-1.0)
+Added Component: Designator=J2(PIN-3-2.54-1.0)
+Added Pin To Net: NetName=V+ Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=V- Pin=J1-3
+Added Pin To Net: NetName=VIN Pin=J2-1
+Added Pin To Net: NetName=VOUT1 Pin=J2-2
+Added Pin To Net: NetName=VOUT2 Pin=J2-3
+Added Member To Class: ClassName=Sheet1 Member=Component J1 CON3
+Added Member To Class: ClassName=Sheet1 Member=Component J2 CON3

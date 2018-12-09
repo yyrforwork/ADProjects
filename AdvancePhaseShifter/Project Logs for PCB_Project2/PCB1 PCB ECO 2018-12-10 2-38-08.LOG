@@ -1,0 +1,159 @@
+Added Component: Designator=uA741_1(DIP-8)
+Added Component: Designator=uA741_2(DIP-8)
+Added Pin To Net: NetName=VIN Pin=C11-1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=VIN Pin=C12-1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC12_2 Pin=C21-1
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetC13_2 Pin=C22-1
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=NetC14_2 Pin=C23-1
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=NetC11_2 Pin=C24-1
+Added Pin To Net: NetName=NetC24_2 Pin=C24-2
+Added Pin To Net: NetName=NetC22_2 Pin=C31-1
+Added Pin To Net: NetName=NetC31_2 Pin=C31-2
+Added Pin To Net: NetName=NetC23_2 Pin=C32-1
+Added Pin To Net: NetName=NetC32_2 Pin=C32-2
+Added Pin To Net: NetName=NetC24_2 Pin=C33-1
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC21_2 Pin=C34-1
+Added Pin To Net: NetName=NetC34_2 Pin=C34-2
+Added Pin To Net: NetName=NetC32_2 Pin=C41-1
+Added Pin To Net: NetName=NetC41_2 Pin=C41-2
+Added Pin To Net: NetName=NetC33_2 Pin=C42-1
+Added Pin To Net: NetName=NetC42_2 Pin=C42-2
+Added Pin To Net: NetName=NetC34_2 Pin=C43-1
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=NetC31_2 Pin=C44-1
+Added Pin To Net: NetName=NetC44_2 Pin=C44-2
+Added Pin To Net: NetName=NetC42_2 Pin=C51-1
+Added Pin To Net: NetName=NetC51_2 Pin=C51-2
+Added Pin To Net: NetName=NetC43_2 Pin=C52-1
+Added Pin To Net: NetName=NetC52_2 Pin=C52-2
+Added Pin To Net: NetName=NetC44_2 Pin=C53-1
+Added Pin To Net: NetName=NetC53_2 Pin=C53-2
+Added Pin To Net: NetName=NetC41_2 Pin=C54-1
+Added Pin To Net: NetName=NetC54_2 Pin=C54-2
+Added Pin To Net: NetName=VIN Pin=R11-1
+Added Pin To Net: NetName=NetC12_2 Pin=R11-2
+Added Pin To Net: NetName=VIN Pin=R12-1
+Added Pin To Net: NetName=NetC13_2 Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=NetC14_2 Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=NetC11_2 Pin=R14-2
+Added Pin To Net: NetName=NetC12_2 Pin=R21-1
+Added Pin To Net: NetName=NetC22_2 Pin=R21-2
+Added Pin To Net: NetName=NetC13_2 Pin=R22-1
+Added Pin To Net: NetName=NetC23_2 Pin=R22-2
+Added Pin To Net: NetName=NetC14_2 Pin=R23-1
+Added Pin To Net: NetName=NetC24_2 Pin=R23-2
+Added Pin To Net: NetName=NetC11_2 Pin=R24-1
+Added Pin To Net: NetName=NetC21_2 Pin=R24-2
+Added Pin To Net: NetName=NetC22_2 Pin=R31-1
+Added Pin To Net: NetName=NetC32_2 Pin=R31-2
+Added Pin To Net: NetName=NetC23_2 Pin=R32-1
+Added Pin To Net: NetName=NetC33_2 Pin=R32-2
+Added Pin To Net: NetName=NetC24_2 Pin=R33-1
+Added Pin To Net: NetName=NetC34_2 Pin=R33-2
+Added Pin To Net: NetName=NetC21_2 Pin=R34-1
+Added Pin To Net: NetName=NetC31_2 Pin=R34-2
+Added Pin To Net: NetName=NetC32_2 Pin=R41-1
+Added Pin To Net: NetName=NetC42_2 Pin=R41-2
+Added Pin To Net: NetName=NetC33_2 Pin=R42-1
+Added Pin To Net: NetName=NetC43_2 Pin=R42-2
+Added Pin To Net: NetName=NetC34_2 Pin=R43-1
+Added Pin To Net: NetName=NetC44_2 Pin=R43-2
+Added Pin To Net: NetName=NetC31_2 Pin=R44-1
+Added Pin To Net: NetName=NetC41_2 Pin=R44-2
+Added Pin To Net: NetName=NetC52_2 Pin=R51-1
+Added Pin To Net: NetName=NetC42_2 Pin=R51-2
+Added Pin To Net: NetName=NetC53_2 Pin=R52-1
+Added Pin To Net: NetName=NetC43_2 Pin=R52-2
+Added Pin To Net: NetName=NetC54_2 Pin=R53-1
+Added Pin To Net: NetName=NetC44_2 Pin=R53-2
+Added Pin To Net: NetName=NetC51_2 Pin=R54-1
+Added Pin To Net: NetName=NetC41_2 Pin=R54-2
+Added Pin To Net: NetName=NetR61_1 Pin=R61-1
+Added Pin To Net: NetName=GND Pin=R61-2
+Added Pin To Net: NetName=NetC54_2 Pin=R62-1
+Added Pin To Net: NetName=NetR61_1 Pin=R62-2
+Added Pin To Net: NetName=NetC52_2 Pin=R63-1
+Added Pin To Net: NetName=NetR63_2 Pin=R63-2
+Added Pin To Net: NetName=NetR64_1 Pin=R64-1
+Added Pin To Net: NetName=GND Pin=R64-2
+Added Pin To Net: NetName=NetC51_2 Pin=R65-1
+Added Pin To Net: NetName=NetR64_1 Pin=R65-2
+Added Pin To Net: NetName=NetC53_2 Pin=R66-1
+Added Pin To Net: NetName=NetR66_2 Pin=R66-2
+Added Pin To Net: NetName=NetR63_2 Pin=R67-1
+Added Pin To Net: NetName=VOUT1 Pin=R67-2
+Added Pin To Net: NetName=NetR66_2 Pin=R68-1
+Added Pin To Net: NetName=VOUT2 Pin=R68-2
+Added Pin To Net: NetName=NetR63_2 Pin=uA741_1-2
+Added Pin To Net: NetName=NetR61_1 Pin=uA741_1-3
+Added Pin To Net: NetName=V- Pin=uA741_1-4
+Added Pin To Net: NetName=VOUT1 Pin=uA741_1-6
+Added Pin To Net: NetName=V+ Pin=uA741_1-7
+Added Pin To Net: NetName=NetR66_2 Pin=uA741_2-2
+Added Pin To Net: NetName=NetR64_1 Pin=uA741_2-3
+Added Pin To Net: NetName=V- Pin=uA741_2-4
+Added Pin To Net: NetName=VOUT2 Pin=uA741_2-6
+Added Pin To Net: NetName=V+ Pin=uA741_2-7
+Added Member To Class: ClassName=Sheet1 Member=Component C11 0.01uF
+Added Member To Class: ClassName=Sheet1 Member=Component C12 0.01uF
+Added Member To Class: ClassName=Sheet1 Member=Component C13 0.01uF
+Added Member To Class: ClassName=Sheet1 Member=Component C14 0.01uF
+Added Member To Class: ClassName=Sheet1 Member=Component C21 0.01uF
+Added Member To Class: ClassName=Sheet1 Member=Component C22 0.01uF
+Added Member To Class: ClassName=Sheet1 Member=Component C23 0.01uF
+Added Member To Class: ClassName=Sheet1 Member=Component C24 0.01uF
+Added Member To Class: ClassName=Sheet1 Member=Component C31 0.01uF
+Added Member To Class: ClassName=Sheet1 Member=Component C32 0.01uF
+Added Member To Class: ClassName=Sheet1 Member=Component C33 0.01uF
+Added Member To Class: ClassName=Sheet1 Member=Component C34 0.01uF
+Added Member To Class: ClassName=Sheet1 Member=Component C41 0.01uF
+Added Member To Class: ClassName=Sheet1 Member=Component C42 0.01uF
+Added Member To Class: ClassName=Sheet1 Member=Component C43 0.01uF
+Added Member To Class: ClassName=Sheet1 Member=Component C44 0.01uF
+Added Member To Class: ClassName=Sheet1 Member=Component C51 0.01uF
+Added Member To Class: ClassName=Sheet1 Member=Component C52 0.01uF
+Added Member To Class: ClassName=Sheet1 Member=Component C53 0.01uF
+Added Member To Class: ClassName=Sheet1 Member=Component C54 0.01uF
+Added Member To Class: ClassName=Sheet1 Member=Component R11 51K
+Added Member To Class: ClassName=Sheet1 Member=Component R12 51K
+Added Member To Class: ClassName=Sheet1 Member=Component R13 51K
+Added Member To Class: ClassName=Sheet1 Member=Component R14 51K
+Added Member To Class: ClassName=Sheet1 Member=Component R21 30K
+Added Member To Class: ClassName=Sheet1 Member=Component R22 30K
+Added Member To Class: ClassName=Sheet1 Member=Component R23 30K
+Added Member To Class: ClassName=Sheet1 Member=Component R24 30K
+Added Member To Class: ClassName=Sheet1 Member=Component R31 16.8K
+Added Member To Class: ClassName=Sheet1 Member=Component R32 16.8K
+Added Member To Class: ClassName=Sheet1 Member=Component R33 16.8K
+Added Member To Class: ClassName=Sheet1 Member=Component R34 16.8K
+Added Member To Class: ClassName=Sheet1 Member=Component R41 8.8K
+Added Member To Class: ClassName=Sheet1 Member=Component R42 8.8K
+Added Member To Class: ClassName=Sheet1 Member=Component R43 8.8K
+Added Member To Class: ClassName=Sheet1 Member=Component R44 8.8K
+Added Member To Class: ClassName=Sheet1 Member=Component R51 5.6K
+Added Member To Class: ClassName=Sheet1 Member=Component R52 5.6K
+Added Member To Class: ClassName=Sheet1 Member=Component R53 5.6K
+Added Member To Class: ClassName=Sheet1 Member=Component R54 5.6K
+Added Member To Class: ClassName=Sheet1 Member=Component R61 100k
+Added Member To Class: ClassName=Sheet1 Member=Component R62 100k
+Added Member To Class: ClassName=Sheet1 Member=Component R63 100k
+Added Member To Class: ClassName=Sheet1 Member=Component R64 100k
+Added Member To Class: ClassName=Sheet1 Member=Component R65 100k
+Added Member To Class: ClassName=Sheet1 Member=Component R66 100k
+Added Member To Class: ClassName=Sheet1 Member=Component R67 100k
+Added Member To Class: ClassName=Sheet1 Member=Component R68 100k
+Added Member To Class: ClassName=Sheet1 Member=Component uA741_1 uA741
+Added Member To Class: ClassName=Sheet1 Member=Component uA741_2 uA741
+Added Room: Name=Sheet1
