@@ -1,0 +1,9 @@
+Added Component: Designator=R71(Inductor2)
+Added Component: Designator=R72(Inductor2)
+Added Pin To Net: NetName=V- Pin=R71-1
+Added Pin To Net: NetName=V- Pin=R71-2
+Added Pin To Net: NetName=V+ Pin=R72-1
+Added Pin To Net: NetName=V+ Pin=R72-2
+Added Member To Class: ClassName=Sheet1 Member=Component R71 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R72 0R
+Added Room: Name=Sheet1

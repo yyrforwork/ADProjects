@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=GND Pin=R14-1
+Added Component: Designator=J5(PIN-1-1.0)
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=C14-1
+Added Pin To Net: NetName=NetC13_1 Pin=J5-1
+Added Pin To Net: NetName=NetC13_1 Pin=R13-1
+Added Pin To Net: NetName=NetC13_1 Pin=R14-1
+Added Net: Name=NetC13_1
+Added Member To Class: ClassName=Sheet1 Member=Component J5 CON1
